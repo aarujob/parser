@@ -1,0 +1,24 @@
+{
+  "igfm": {
+    "firstCategory": "<li id=\"menu-item-7\" class=\"menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home\"><a href=\"http://www.igfm.sn\"><span>Accueil</span></a></li>",
+    "lastCategory": "<li id=\"menu-item-146\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category\"><a href=\"https://www.igfm.sn/category/international/\"><span>International</span></a></li>",
+    "categoryName": "Accueil",
+    "categoryLink": "http://www.igfm.sn",
+    "article": {}
+  },
+  "seneweb": {
+    "firstCategory": "<li class=\"big_dropdown\" data-content=\"société\"><a href=\"/news/societe/\">SOCIéTé</a></li>",
+    "categoryName": "SOCIéTé",
+    "categoryLink": "/news/societe/",
+    "article": {
+      "site" : "",
+      "homeArticle" : "",
+      "rubricArticle" : "",
+      "name" : "seneweb",
+      "url" : "",
+      "image" : "",
+      "description" : "",
+      "author" : "NOT DEFINED"
+    }
+  }
+}

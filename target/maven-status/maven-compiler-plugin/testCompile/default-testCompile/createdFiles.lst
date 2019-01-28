@@ -1,0 +1,5 @@
+com/aarujob/parseurhtml/parsers/igfm/IgfmTest.class
+com/aarujob/parseurhtml/parsers/seneweb/SenewebCategoryPresenterTest.class
+com/aarujob/parseurhtml/parsers/igfm/presenters/IgfmCategoryPresenterTest.class
+com/aarujob/parseurhtml/parsers/seneweb/SenewebArticlePresenterTest.class
+com/aarujob/parseurhtml/parsers/igfm/presenters/IgfmArticlePresenterTest.class

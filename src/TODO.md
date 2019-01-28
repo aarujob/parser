@@ -1,0 +1,34 @@
+- [ ] TODO : fix Senego parser
+    - [ ] Change properties value for parsing
+    - [ ] Recfactor senego package definition
+- [x] TODO : Refactor publication date
+    - [x] fix publication date for LeralParser
+    - [x] Refactor DateTimeHelper
+
+- [x] TODO: Create a parser for leral.net
+- [x] Create a new branch feat/LeralParser
+- [x] LeralParser package definition
+    - [x] LeralCategorySeeker
+    - [x] LeralrticleSeeker
+    - [x] LeralCategoryRenderer
+    - [x] LeralArticleRenederer
+    - [x] LeralParser
+- [x] update ParserFactory
+- [x] Fix properties files for parsing Leral.net
+- [x] Fixed package definition
+- [x] Commit and push the branch feat/XibarParser
+- [x] LeralParser test with netbeans project
+
+
+- [x] TODO: Create a parser for xibar.net
+- [x] Create a new branch feat/XibarParser
+- [x] XibarParser package definition
+    - [x] XibarCategorySeeker
+    - [x] XibarArticleSeeker
+    - [x] XibarCategoryRenderer
+    - [x] XibarArticleRenederer
+    - [x] XibarParser
+- [x] Fix properties files for parsing lera.net
+- [x] Fixed package definition
+- [x] Commit and push the branch feat/lParser
+- [x] XibarParser test with netbeans project
